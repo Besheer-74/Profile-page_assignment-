@@ -1,16 +1,3 @@
 # profile_page
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Profile page-Light mood](https://github.com/Besheer-74/Profile-page_assignment-/assets/142359151/51eb9432-b632-41e9-b5bb-b6979708083a)
+![Profile page-Dark mood](https://github.com/Besheer-74/Profile-page_assignment-/assets/142359151/f2cf8020-7d6b-487d-90ca-df910b88a7e4)
